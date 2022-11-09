@@ -30,4 +30,5 @@ make
 
 ## 4. Test 
 ✅ MacOs
-🚼 Lunix 
+
+🚼 Linux 
